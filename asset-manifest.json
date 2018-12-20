@@ -1,0 +1,11 @@
+{
+  "main.js": "/react-build/static/js/main.8325e411.chunk.js",
+  "main.js.map": "/react-build/static/js/main.8325e411.chunk.js.map",
+  "static/js/1.324b6cf3.chunk.js": "/react-build/static/js/1.324b6cf3.chunk.js",
+  "static/js/1.324b6cf3.chunk.js.map": "/react-build/static/js/1.324b6cf3.chunk.js.map",
+  "runtime~main.js": "/react-build/static/js/runtime~main.346190b5.js",
+  "runtime~main.js.map": "/react-build/static/js/runtime~main.346190b5.js.map",
+  "index.html": "/react-build/index.html",
+  "precache-manifest.359fba798da278390a8f47e923e51448.js": "/react-build/precache-manifest.359fba798da278390a8f47e923e51448.js",
+  "service-worker.js": "/react-build/service-worker.js"
+}
